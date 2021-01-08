@@ -17,7 +17,7 @@
 - (20.03 - 20.06) 부트캠프 Wecode 7기 수료 (Backend)
 - (20.08 - 현재) 반달컴퍼니 Backend/Server Developer
 
-## Interest 👀
+## Interest
 - 외국어 (한국어, 러시아어, 카자흐어, 영어 구사 가능 / 일본어 구사 희망)
 - 개발 (공부 == 직업, 덕업일치!)
 - 반려동물 (코둥이 집사 2년차, 인스타그램 @cori_zzang)
