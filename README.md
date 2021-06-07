@@ -15,7 +15,7 @@
 - (13.08 - 15.08) HYU Master's degree
 - (15.09 - 20.02) 해외영업인
 - (20.03 - 20.06) 부트캠프 Wecode 7기 수료 (Backend)
-- (20.08 - 현재) 반달컴퍼니 Backend/Server Developer
+- (20.08 - 현재) 리베라빗 Backend/Server Developer
 
 ## Interest
 - 외국어 (한국어, 러시아어, 카자흐어, 영어)
