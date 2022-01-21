@@ -11,13 +11,12 @@
 <br>
 
 ## Work experience 
-- (06.03 - 13.08) HUFS Bachelor's degree
-- (13.08 - 15.08) HYU Master's degree
-- (15.09 - 20.02) 해외영업인
-- (20.03 - 20.06) 부트캠프 Wecode 7기 수료 (Backend)
-- (20.08 - 현재) 리베라빗 Backend/Server Developer
+- HUFS Bachelor's degree
+- HYU Master's degree
+- 해외영업인
+- 부트캠프 Wecode 7기 수료 (Backend)
+- 리베라빗 Backend/Server Dev
 
 ## Interest
-- 외국어 (한국어, 러시아어, 카자흐어, 영어)
-- 개발 (파이썬을 좋아합니다)
-- 반려동물 (두 아이의 집사입니다)
+- 외국어 (한국어, 러시아어, 카자흐어, 영어 다 잘하고 싶습니다!)
+- 반려동물 (코둥이 집사입니다 / @cori_zzang)
