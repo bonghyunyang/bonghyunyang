@@ -1,4 +1,4 @@
-# 양봉현 Bonghyun Yang
+# 양봉현 (Bonghyun Yang)
 
 ## https://linktr.ee/dev.shura
 
@@ -10,13 +10,15 @@
 
 <br>
 
+Python, Django / Java, Spring Boot (with Kotlin) / PHP / Express, Sequelize with Node.js
+
 ## Work experience 
 - HUFS Bachelor's degree
 - HYU Master's degree
-- 해외영업인
-- 부트캠프 Wecode 7기 수료 (Backend)
-- 리베라빗 Backend/Server Dev
+- Former Overseas Sales Manager (Russia, CIS)
+- Wecode 7th Batch (Backend)
+- Liberabit Backend/Server Dev
 
 ## Interest
-- 외국어 (한국어, 러시아어, 카자흐어, 영어 다 잘하고 싶습니다!)
-- 반려동물 (코둥이 집사입니다 / @cori_zzang)
+- Foreign Languages
+- @cori_zzang
